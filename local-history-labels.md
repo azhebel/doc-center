@@ -1,6 +1,6 @@
 # Adding Labels to Local History
 
-[*Local History*](README.dm) contains revisions with timestamps, which are not easy to navigate.
+[*Local History*](README.md) contains revisions with timestamps, which are not easy to navigate.
 Some revisions are automatically marked with labels based on predefined events:
 running tests, deploying apps, committing changes, etc.
 You can also add custom labels to mark specific milestones in your *Local History*.

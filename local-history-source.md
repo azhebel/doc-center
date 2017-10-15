@@ -1,7 +1,7 @@
 # Viewing Local History for Source Code Elements
 
-In some cases, you may not want to see [*Local History*](README.md) for the whole file,
-but only separate source code elements:
+In some cases, you may not want to view [*Local History*](README.md) for the whole file,
+but only for specific source code elements:
 classes, their members (fields and methods), or any selected fragment of text.
 
 * To view *Local History* for a class, right-click the class name in the editor, then select **Local History** > **Show History for Class**.

@@ -13,7 +13,7 @@ To view *Local History*, open the **VCS** menu and choose **Local History** > **
 When viewing *Local History* for a directory, revisions show only names of files that changed in the directory.
 Revisions for a specific file contain changes to the contents of the file.
 
-    **NOTE:** *Local History* is not available for binary files.
+**NOTE:** *Local History* is not available for binary files.
 
 ## Reverting Changes
 
@@ -25,6 +25,7 @@ This adds a new revision to *Local History*.
 
 See also:
 
-- [Viewing local history for source code Elements](local-history-source.md)
-- [Adding labels to Local History](local-history-labels.md)
+- [Viewing Local History for Source Code Elements](local-history-source.md)
+- [Adding Labels to Local History](local-history-labels.md)
 - [Viewing Recent Changes](recent-changes.md)
+
