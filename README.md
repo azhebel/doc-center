@@ -1,12 +1,30 @@
-# doc-center
+# Local History
 
-This repo is to test out a complex structure for multiple product doc sources.
+IntelliJ IDEA uses *Local History* to constantly track all changes made to projects.
+Unlike version control systems that show differences between specific commits,
+*Local History* automatically maintains revisions for all meaningful events.
+This produces a detailed timeline of changes in project structure and source code,
+with the ability to roll back to any point if necessary.
 
-* Product One
-  * 1.0
-  * 2.0
-  * 3.0
-* Product Two
-  * 1.0
-  * 2.0
-* Product Three
+## Viewing Local History
+
+To view *Local History*, open the **VCS** menu and choose **Local History** > **Show History**.
+
+When viewing *Local History* for a directory, revisions show only names of files that changed in the directory.
+Revisions for a specific file contain changes to the contents of the file.
+
+    **NOTE:** *Local History* is not available for binary files.
+
+## Reverting Changes
+
+*Local History* contains a list of revisions and shows differences between them.
+To revert to a specific revision, select it from the list and click **Revert** in the toolbar.
+This adds a new revision to *Local History*.
+
+---
+
+See also:
+
+- [Viewing local history for source code Elements](local-history-source.md)
+- [Adding labels to Local History](local-history-labels.md)
+- [Viewing Recent Changes](recent-changes.md)
