@@ -27,5 +27,6 @@ See also:
 
 - [Viewing Local History for Source Code Elements](local-history-source.md)
 - [Adding Labels to Local History](local-history-labels.md)
+- [Sharing Local History](local-history-share.md)
 - [Viewing Recent Changes](recent-changes.md)
 
